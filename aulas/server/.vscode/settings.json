@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "rocketseat"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+    ],
+    "[prisma]" :{
+        "editor.formatOnSave": true
+    }
+
+}
